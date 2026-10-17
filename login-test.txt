@@ -1,0 +1,5 @@
+Test Case: Login Test
+
+1. Enter valid username and password.
+2. Click Login.
+Expected Result: User logs in successfully.
