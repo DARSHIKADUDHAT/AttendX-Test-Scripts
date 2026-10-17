@@ -1,5 +1,5 @@
-Test Case: Login Test
+Test Case: Empty Login Validation
 
-1. Enter valid username and password.
+1. Leave username and password empty.
 2. Click Login.
-Expected Result: User logs in successfully.
+Expected Result: An error message should appear.
